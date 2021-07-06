@@ -1,0 +1,9 @@
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus.csprojAssemblyReference.cache
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus.AssemblyInfoInputs.cache
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus.AssemblyInfo.cs
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus.csproj.CoreCompileInputs.cache
+C:\Users\MKochubei\source\repos\NuGet\netstandard2.0\KeyStatus1.deps.json
+C:\Users\MKochubei\source\repos\NuGet\netstandard2.0\KeyStatus1.dll
+C:\Users\MKochubei\source\repos\NuGet\netstandard2.0\KeyStatus1.pdb
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus1.dll
+C:\Users\MKochubei\source\repos\KeyStatus\obj\Debug\netstandard2.0\KeyStatus1.pdb

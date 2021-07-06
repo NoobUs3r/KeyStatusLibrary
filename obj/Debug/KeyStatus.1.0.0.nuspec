@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KeyStatus</id>
+    <version>1.0.0</version>
+    <authors>NoobUser</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Console Application versions of:
+1. IsKeyDown()
+2. IsKeyUp()
+3. IsKeyToggled()</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\MKochubei\source\repos\NuGet\netstandard2.0\KeyStatus.dll" target="lib\netstandard2.0\KeyStatus.dll" />
+  </files>
+</package>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>NoobUser</Authors>
+    <Description>Console Application versions of:
+1. IsKeyDown()
+2. IsKeyUp()
+3. IsKeyToggled()</Description>
+    <RootNamespace>NoobUser.KeyStatus</RootNamespace>
+    <AssemblyName>NoobUser.KeyStatus</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\MKochubei\source\repos\NuGet\</OutputPath>
+  </PropertyGroup>
+
+</Project>
